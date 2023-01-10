@@ -51,6 +51,7 @@
     "sass": "^1.49.9",
     "sw-precache": "^5.2.1",
     "sw-toolbox": "^3.6.0",
+    "webpack": "^5.75.0",
     "webpack-stream": "^7.0.0"
   },
   "dependencies": {
